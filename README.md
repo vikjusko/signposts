@@ -181,8 +181,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Connor Worthington](https://github.com/CRTW26)
 
 * Project Link: [https://github.com/samcolson4/signposts-again](https://github.com/samcolson4/signposts-again)
-* Project Video: [https://www.youtube.com/watch?v=Crr90faZCcw&amp;feature=youtu.be]
-* Project Presentation Video: [https://www.youtube.com/watch?v=zo6HV1TGK_o]
+* Project Video: [https://www.youtube.com/watch?v=Crr90faZCcw&amp;feature=youtu.be)
+* Project Presentation Video: [https://www.youtube.com/watch?v=zo6HV1TGK_o)
 
 
 <!-- ACKNOWLEDGEMENTS -->
