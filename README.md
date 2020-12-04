@@ -173,14 +173,8 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-## Contact
 
-[Sam Colson](https://github.com/samcolson4)
-[Viktorija Jusko](https://github.com/vikjusko)
-[Louis Kirkham](https://github.com/TheDancingClown) 
-[Connor Worthington](https://github.com/CRTW26)
-
-* [Project Link](https://github.com/samcolson4/signposts-again](https://github.com/samcolson4/signposts-again)
+* [Project Link](https://github.com/samcolson4/signposts-again)
 * [Project Video](https://www.youtube.com/watch?v=Crr90faZCcw&amp;feature=youtu.be)
 * [Project Presentation Video](https://www.youtube.com/watch?v=zo6HV1TGK_o)
 
